@@ -1,3 +1,4 @@
+<h1 align="center">Branch purely for personal use</h1>
 <h1 align="center">VSC Cord</h1>
 <p align="center">
   <img alt="Preview" width="860" alt="preview" src="https://cdn.discordapp.com/attachments/862688548187799565/863275036847505460/444444.png">
