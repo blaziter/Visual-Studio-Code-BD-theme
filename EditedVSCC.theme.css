@@ -1831,7 +1831,6 @@ html .mention.wrapper-1ZcZW-.mention.interactive{
     justify-content: unset;
     transition: transform 0.25s ease-in;
 }
-
 /* Plugins: SendAudio */
 :root {
 	--sendaudio-record: var(--interactive-normal);
