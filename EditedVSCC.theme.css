@@ -1827,9 +1827,8 @@ html .mention.wrapper-1ZcZW-.mention.interactive{
     top: 0;
     right: 0;
     height: 100%;
-    transform: translateX(80%);
+    transform: translateX(0%);
     justify-content: unset;
-    transition: transform 0.25s ease-in;
 }
 /* Plugins: SendAudio */
 :root {
@@ -1867,5 +1866,4 @@ platform-osx .app-3xd6d0 {
 }
 .guilds-2JjMmN{
     margin-left: -1px;
-
 }
