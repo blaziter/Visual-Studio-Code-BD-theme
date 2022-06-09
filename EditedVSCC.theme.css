@@ -1865,3 +1865,9 @@ platform-osx .app-3xd6d0 {
 .guilds-2JjMmN{
     margin-left: -1px;
 }
+
+@media only screen and (max-width: 1366px) {
+	.chatContent-3KubbW {
+    		width: 1293px;
+	}
+}
